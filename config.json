@@ -1,0 +1,9 @@
+{
+    "api_key": "",
+    "uurl": "site:osu.ppy.sh/users/",
+    "nfpr": 1,
+    "filter": 0,
+    "pws": 0,
+    "delay": 2000,
+    "num": 100
+}
