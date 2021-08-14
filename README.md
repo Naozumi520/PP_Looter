@@ -17,6 +17,8 @@ This is osu! PP Looter. A crazy idea has just been born. This tools search playe
 Latest verisons:
 [Windows (x64)](https://github.com/Naozumi520/PP_Looter/releases/download/1.0.0/PPL_1.0.0_win.zip)
 
+Before you start to using the tool, an osu! [`api key`](https://osu.ppy.sh/p/api) is required to get the user info. `config.json` is the place to save the api key and the settings. [**Sample config.json**](https://github.com/Naozumi520/PP_Looter#sample-configjson)
+
 ## Self-execution
 This tool was built with nodeJS. To run the tool, you will need to get [`node.js`](https://nodejs.org/en/) installed.
 
