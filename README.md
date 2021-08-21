@@ -20,7 +20,7 @@ Latest verisons:
 Before you start to using the tool, an osu! [`api key`](https://osu.ppy.sh/p/api) is required to get the user info. `config.json` is the place to save the api key and the settings. [**Sample config.json**](https://github.com/Naozumi520/PP_Looter#sample-configjson)
 
 ## Self-execution
-If you're getting problem when running the .exe, you can try to do **self-execution**.
+If you're getting problem when running the .exe, you can try to do **self-execution**.  
 This tool was built with nodeJS. To run the tool, you will need to get [`node.js`](https://nodejs.org/en/) installed.
 
 This tool uses npm module. Use the following command if you don't have them locally installed.
